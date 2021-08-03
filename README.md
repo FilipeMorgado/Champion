@@ -4,4 +4,4 @@ Project made for Operating Systems class at ISEC. Project made using C, Champion
 ## Files
 To get a better understanding of everything that is implemented and the project, the guide for this has been left with the files.\
 The entire project is in Portuguese.\
-[Guide](SO - 2021 - Enunciado TP .pdf)
+[Guide](SO_2021_Enunciado.pdf)
